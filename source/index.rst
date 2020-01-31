@@ -27,7 +27,6 @@ Contents:
    syntax-examples
    bibliography
 
-
 Indices and tables
 ==================
 

@@ -18,7 +18,7 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../'))
+#sys.path.insert(0, os.path.abspath('../'))
 import sphinx_bootstrap_theme
 
 
@@ -262,8 +262,8 @@ html_static_path = ['_static']
 
 # Custom sidebar templates, maps document names to template names.
 #
-# html_sidebars = {}
-html_sidebars = {'sidebar': ['localtoc.html', 'sourcelink.html', 'searchbox.html']}
+#html_sidebars = {}
+html_sidebars = {'sidebar':['localtoc.html', 'sourcelink.html', 'searchbox.html']}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.

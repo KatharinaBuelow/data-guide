@@ -214,4 +214,3 @@ An example JavaScript function.
    :param string name: The name of the animal
    :param number age: an optional age for the animal
 
-
