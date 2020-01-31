@@ -23,6 +23,9 @@ Contents:
    :maxdepth: 2
 
    general_information
+   bibliography
+   sidebar
+   syntax-examples
 
 
 Indices and tables
