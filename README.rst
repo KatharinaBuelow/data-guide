@@ -6,5 +6,6 @@ EURO-CORDEX Data Guide
 ======================
 Guidance for EURO-CORDEX climate projections data use
 
+`General Information`_.
 
-.. _relative link: source/general_information.rst
+.. _General Information: source/general_information.rst
