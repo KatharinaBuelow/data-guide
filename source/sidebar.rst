@@ -1,6 +1,6 @@
-==================
- Sidebar Examples
-==================
+====================
+**Sidebar Examples**
+====================
 
 This page demonstrates the use of a simple navigation sidebar.
 
