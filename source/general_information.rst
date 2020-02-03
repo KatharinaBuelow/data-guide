@@ -2,6 +2,8 @@
 **General information on the climate system**
 =============================================
 
+Katharinas Edit here!
+
 General Remarks
 ---------------
 The output of climate simulations are data sets of relevant atmospheric and surface variables. Using these data for various purposes, 
