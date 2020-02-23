@@ -13,3 +13,6 @@ In order to provide feedback, please send an email to feedback@euro-cordex.net.
 `General Information`_
 
 .. _General Information: source/general_information.rst
+.. _General Information: source/interpreting_regional_climate_projections.rst
+.. _General Information: source/model_data_formats_and_structures.rst
+.. _General Information: source/appendix.rst
