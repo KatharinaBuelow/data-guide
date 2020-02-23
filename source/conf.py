@@ -59,7 +59,8 @@ master_doc = 'index'
 # General information about the project.
 project = u'EURO-CORDEX Guidelines'
 copyright = u'2020'
-author = u'Authors'
+author = u'Rasmus Benestad, Andreas Haensler, Barbara Hennemuth, Tamás Illy, Daniela Jacob, Elke Keup-Thiel, Sven Kotlarski, Grigory Nikulin, Juliane Otto, Diana Rechid, Kevin Sieck, Stefan Sobolowski, Péter Szabó, Gabriella Szépszó, Claas Teichmann, Robert Vautard, Torsten Weber, Gabriella Zsebeházi'
+#author = [u'Rasmus Benestad', u'Andreas Haensler']
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
