@@ -60,7 +60,7 @@ master_doc = 'index'
 project = u'EURO-CORDEX Guidelines'
 copyright = u'2020'
 author = u'Rasmus Benestad, Andreas Haensler, Barbara Hennemuth, Tamás Illy, Daniela Jacob, Elke Keup-Thiel, Sven Kotlarski, Grigory Nikulin, Juliane Otto, Diana Rechid, Kevin Sieck, Stefan Sobolowski, Péter Szabó, Gabriella Szépszó, Claas Teichmann, Robert Vautard, Torsten Weber, Gabriella Zsebeházi'
-#author = [u'Rasmus Benestad', u'Andreas Haensler']
+author = 'author' 
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -350,7 +350,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'EURO-CORDEX.tex', u'EURO-CORDEX Guidelines',
-     u'Author', 'manual'),
+     'author', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
