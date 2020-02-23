@@ -23,6 +23,9 @@ Contents:
    :maxdepth: 2
 
    general_information
+   interpreting_regional_climate_projections
+   model_data_formats_and_structures
+   appendix
    sidebar
    syntax-examples
    bibliography
