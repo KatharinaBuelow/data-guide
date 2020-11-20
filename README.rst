@@ -1,6 +1,8 @@
 .. image:: https://readthedocs.org/projects/data-guide/badge/?version=latest
    :target: https://data-guide.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
+   
+Test repository to manage the Data Guide in `sphinx <https://www.sphinx-doc.org/en/master/>`_.
 
 EURO-CORDEX Data Guide
 ======================
